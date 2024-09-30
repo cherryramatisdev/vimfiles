@@ -271,3 +271,5 @@ function! s:TabularizeReset()
 
   call setpos('.', original_cursor)
 endfunction
+
+let g:ctrlp_map = '<c-f>'

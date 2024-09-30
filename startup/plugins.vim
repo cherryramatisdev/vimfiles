@@ -3,6 +3,8 @@ packadd matchit
 " NERDTree:
 let g:NERDTreeHijackNetrw = 0
 
+let g:andrews_nerdtree_all = 1
+
 " Don't map over J and K
 let g:NERDTreeMapJumpFirstChild = '-'
 let g:NERDTreeMapJumpLastChild  = '-'

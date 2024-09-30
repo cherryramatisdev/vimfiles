@@ -15,3 +15,6 @@ runtime startup/settings.vim
 runtime startup/mappings.vim
 runtime startup/acp.vim
 runtime startup/plugins.vim
+
+runtime! andrews_nerdtree/plugin.vim
+runtime! nerdtree/plugin.vim
