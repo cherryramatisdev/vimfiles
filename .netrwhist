@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/cherryramatisdeoliveira/git/vimfiles'
+let g:netrw_dirhist_8='/home/cherryramatisdeoliveira/git/vimfiles/startup'
+let g:netrw_dirhist_7='/home/cherryramatisdeoliveira/git/vimfiles'
+let g:netrw_dirhist_6='/home/cherryramatisdeoliveira/git'
+let g:netrw_dirhist_5='/home/cherryramatisdeoliveira/git/vimfiles'
+let g:netrw_dirhist_4='/home/cherryramatisdeoliveira/git/vimfiles/plugin'
+let g:netrw_dirhist_3='/home/cherryramatisdeoliveira/git/vimfiles'
+let g:netrw_dirhist_2='/home/cherryramatisdeoliveira/git/vimfiles/startup'
+let g:netrw_dirhist_1='/home/cherryramatisdeoliveira/git/vimfiles'
+let g:netrw_dirhist_0='/home/cherryramatisdeoliveira/git/vimfiles/startup'
