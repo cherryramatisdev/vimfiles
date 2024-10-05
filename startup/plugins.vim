@@ -39,7 +39,7 @@ let g:ack_apply_qmappings = 0
 let g:ack_apply_lmappings = 0
 
 " Markdown
-let g:markdown_fenced_languages = ['ruby', 'vim', 'rust', 'bash', 'python', 'typescript', 'javascript']
+let g:markdown_fenced_languages = ['ruby', 'vim', 'rust', 'bash', 'python', 'typescript', 'javascript', 'diff']
 
 " surround.vim
 xmap s S
@@ -51,3 +51,6 @@ let g:writable_search_confirm_directory_creation = 0
 
 " Ack:
 let g:ack_use_dispatch = 1
+
+" CtrlP:
+let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']

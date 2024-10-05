@@ -70,3 +70,21 @@
 [submodule "bundle/vim-eunuch"]
 	path = bundle/vim-eunuch
 	url = https://github.com/tpope/vim-eunuch
+[submodule "bundle/vim-wayland-clipboard"]
+	path = bundle/vim-wayland-clipboard
+	url = https://github.com/jasonccox/vim-wayland-clipboard
+[submodule "bundle/file-line"]
+	path = bundle/file-line
+	url = https://github.com/bogado/file-line
+[submodule "bundle/img-paste.vim"]
+	path = bundle/img-paste.vim
+	url = https://github.com/img-paste-devs/img-paste.vim
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
+	url = https://github.com/fatih/vim-go
+[submodule "bundle/markdown-preview.nvim"]
+	path = bundle/markdown-preview.nvim
+	url = https://github.com/iamcco/markdown-preview.nvim
+[submodule "bundle/codeium.vim"]
+	path = bundle/codeium.vim
+	url = https://github.com/Exafunction/codeium.vim
